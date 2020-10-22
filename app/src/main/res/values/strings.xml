@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppX1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Palabra…</string>
+    <string name="button_save">Guardar</string>
+    <string name="empty_not_saved">No guardado, campo vacío.</string>
+    <string name="add_word">Añadir elemento</string>
+</resources>
